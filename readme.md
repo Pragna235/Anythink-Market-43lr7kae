@@ -63,3 +63,8 @@ When implementing a new feature or fixing a bug, please create a new pull reques
 * It should return `Flash Gordon`. It means, your AI Chatbot is working!
 * Try different questions too!
 
+![image](https://github.com/Pragna235/Anythink-Market-43lr7kae/assets/109524200/5ebcdb78-edbf-4785-888b-eebb1cc39545)
+
+![image](https://github.com/Pragna235/Anythink-Market-43lr7kae/assets/109524200/e157b2e4-56b1-4521-adc2-201d00bca412)
+
+
